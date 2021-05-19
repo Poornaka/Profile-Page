@@ -1,4 +1,4 @@
-# profile-page
+# Profile-page
 This website can toggle light and dark modes by changing the stylesheet. There is only a bit of Javascript.
 
 # Results
